@@ -1,0 +1,7 @@
+/.direnv/
+/.vscode/
+/risultati/
+/__pycache__/
+/build/
+/build_log.txt
+/test/
